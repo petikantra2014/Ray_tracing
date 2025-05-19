@@ -1,0 +1,17 @@
+C:\Users\T2215\source\repos\Ray_Tracing\Ray_Tracing\bin\Debug\Ray_Tracing.exe.config
+C:\Users\T2215\source\repos\Ray_Tracing\Ray_Tracing\bin\Debug\Ray_Tracing.exe
+C:\Users\T2215\source\repos\Ray_Tracing\Ray_Tracing\bin\Debug\Ray_Tracing.pdb
+C:\Users\T2215\source\repos\Ray_Tracing\Ray_Tracing\bin\Debug\OpenTK.dll
+C:\Users\T2215\source\repos\Ray_Tracing\Ray_Tracing\bin\Debug\OpenTK.GLControl.dll
+C:\Users\T2215\source\repos\Ray_Tracing\Ray_Tracing\bin\Debug\OpenTK.pdb
+C:\Users\T2215\source\repos\Ray_Tracing\Ray_Tracing\bin\Debug\OpenTK.xml
+C:\Users\T2215\source\repos\Ray_Tracing\Ray_Tracing\bin\Debug\OpenTK.dll.config
+C:\Users\T2215\source\repos\Ray_Tracing\Ray_Tracing\bin\Debug\OpenTK.GLControl.xml
+C:\Users\T2215\source\repos\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.csproj.AssemblyReference.cache
+C:\Users\T2215\source\repos\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.Form1.resources
+C:\Users\T2215\source\repos\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.Properties.Resources.resources
+C:\Users\T2215\source\repos\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.csproj.GenerateResource.cache
+C:\Users\T2215\source\repos\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.csproj.CoreCompileInputs.cache
+C:\Users\T2215\source\repos\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Trac.8DD895BE.Up2Date
+C:\Users\T2215\source\repos\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.exe
+C:\Users\T2215\source\repos\Ray_Tracing\Ray_Tracing\obj\Debug\Ray_Tracing.pdb
